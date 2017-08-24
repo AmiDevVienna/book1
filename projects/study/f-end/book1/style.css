@@ -17,9 +17,9 @@ float: right;
 }
 
 .comments p:nth-child (even) {
-background-color: lavender;
+background: lavender;
 }
 
 .comments p:nth-child (odd) {
-background-color:gainsboro;
+background:gainsboro;
 }
