@@ -16,7 +16,7 @@ float: right;
 }
 
 .comments p:nth-child (even) {
-background-color: blue;
+background-color: #B89EB8;
 }
 
 .comments p:nth-child (odd) {
