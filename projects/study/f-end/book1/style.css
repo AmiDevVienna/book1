@@ -17,9 +17,9 @@ float: right;
 }
 
 .comments p:nth-child (even) {
-background: yellow;
+background-color: blue;
 }
 
 .comments p:nth-child (odd) {
-background: purple;
+background-color: cyan;
 }
