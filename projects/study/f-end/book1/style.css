@@ -16,10 +16,10 @@ float: right;
 overflow: auto;
 }
 
-.comments p:nth-child (even) {
+.comments p:nth-child(even) {
 background-color: Aqua;
 }
 
-.comments p:nth-child (odd) {
+.comments p:nth-child(odd) {
 background-color: Aquamarine;
 }
