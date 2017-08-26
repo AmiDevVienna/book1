@@ -13,6 +13,7 @@ float: left;
 .comments {
 width: 570px;
 float: right;
+overflow: hidden;
 }
 
 .comments p:nth-child (even) {
