@@ -13,13 +13,13 @@ float: left;
 .comments {
 width: 570px;
 float: right;
-overflow: hidden;
+overflow: auto;
 }
 
 .comments p:nth-child (even) {
-background-color: #B89EB8;
+background-color: Aqua;
 }
 
 .comments p:nth-child (odd) {
-background-color: cyan;
+background-color: Aquamarine;
 }
